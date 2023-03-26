@@ -15,7 +15,7 @@ Proxy disguised as a calculator. Supports Call Of Duty, Roblox, and more! (Nowgg
 
 Click "Go to the algebra calculator" for the proxy.
 
-The purple circle closes UltraViolet.
+The purple circle closes The proxy.
 
 
 
