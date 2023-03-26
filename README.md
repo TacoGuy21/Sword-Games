@@ -7,9 +7,9 @@
 
 Please fork and add your own proxy to the button.
 
-Calculator script was given to me by Apandawithagun.
+Credit to Apandawithagun.
 
-I just redid the decoration.
+I redid the decoration.
 
 Proxy disguised as a calculator. Supports Call Of Duty, Roblox, and more! (Nowgg.me)
 
