@@ -1,10 +1,12 @@
 <!DOCTYPE html>
-<html>
-<head>
-<title> 
-  The Calculator
-  </title>
-  <style>
+<button onclick="changeTitle()">Click me!</button>
+<script>
+function changeTitle() {
+  document.title = "about:blank";
+}
+</script>
+<title>Calculator</title>
+<style>
     button {
       font-size: 1.2rem; 
       padding: 0.8rem 1.2rem; 
@@ -19,8 +21,8 @@
     button:hover {
       transform: translateY(-2px); 
       box-shadow: 0 2px 5px rgba(0, 0, 0, 0.2);
-  </style>
-  <script>
+</style>
+<script>
                 document.addEventListener('DOMContentLoaded', function() {
                   var myButton = document.getElementById('myButton');
                   myButton.addEventListener('click', function() {
@@ -58,18 +60,19 @@
                         document.body.appendChild(closeButton);
                   });
                 });
-  </script>
-  <title></title>
-</head>
-<body>
-  <button id="myButton">Go To The Algebra Calculator</button>
-  <style>
+</script>
+<title></title><button id="myButton">Algebra Calculator</button>
+<style>
+
+
 
         body { background-color: #000000; }
-  </style>
-  <script src="https://cdnjs.cloudflare.com/ajax/libs/mathjs/10.6.4/math.js" integrity="sha512-BbVEDjbqdN3Eow8+empLMrJlxXRj5nEitiCAK5A1pUr66+jLVejo3PmjIaucRnjlB0P9R3rBUs3g5jXc8ti+fQ==" crossorigin="anonymous" referrerpolicy="no-referrer"></script> 
-  <script src="https://cdnjs.cloudflare.com/ajax/libs/mathjs/10.6.4/math.min.js" integrity="sha512-iphNRh6dPbeuPGIrQbCdbBF/qcqadKWLa35YPVfMZMHBSI6PLJh1om2xCTWhpVpmUyb4IvVS9iYnnYMkleVXLA==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
-  <style>
+</style>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/mathjs/10.6.4/math.js" integrity="sha512-BbVEDjbqdN3Eow8+empLMrJlxXRj5nEitiCAK5A1pUr66+jLVejo3PmjIaucRnjlB0P9R3rBUs3g5jXc8ti+fQ==" crossorigin="anonymous" referrerpolicy="no-referrer"></script> 
+<script src="https://cdnjs.cloudflare.com/ajax/libs/mathjs/10.6.4/math.min.js" integrity="sha512-iphNRh6dPbeuPGIrQbCdbBF/qcqadKWLa35YPVfMZMHBSI6PLJh1om2xCTWhpVpmUyb4IvVS9iYnnYMkleVXLA==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
+<style>
+
+
 
 
                 table {
@@ -97,38 +100,38 @@
                         border-radius: 5px;
                         border: 2px solid black;
                 }
-  </style>
-  <table id="calcu">
-    <tr>
-      <td colspan="3"><input type="text" id="result"></td>
-      <td><input type="button" value="c" onclick="clr()"></td>
-    </tr>
-    <tr>
-      <td><input type="button" value="1" onclick="dis('1')" onkeydown="myFunction(event)"></td>
-      <td><input type="button" value="2" onclick="dis('2')" onkeydown="myFunction(event)"></td>
-      <td><input type="button" value="3" onclick="dis('3')" onkeydown="myFunction(event)"></td>
-      <td><input type="button" value="/" onclick="dis('/')" onkeydown="myFunction(event)"></td>
-    </tr>
-    <tr>
-      <td><input type="button" value="4" onclick="dis('4')" onkeydown="myFunction(event)"></td>
-      <td><input type="button" value="5" onclick="dis('5')" onkeydown="myFunction(event)"></td>
-      <td><input type="button" value="6" onclick="dis('6')" onkeydown="myFunction(event)"></td>
-      <td><input type="button" value="*" onclick="dis('*')" onkeydown="myFunction(event)"></td>
-    </tr>
-    <tr>
-      <td><input type="button" value="7" onclick="dis('7')" onkeydown="myFunction(event)"></td>
-      <td><input type="button" value="8" onclick="dis('8')" onkeydown="myFunction(event)"></td>
-      <td><input type="button" value="9" onclick="dis('9')" onkeydown="myFunction(event)"></td>
-      <td><input type="button" value="-" onclick="dis('-')" onkeydown="myFunction(event)"></td>
-    </tr>
-    <tr>
-      <td><input type="button" value="0" onclick="dis('0')" onkeydown="myFunction(event)"></td>
-      <td><input type="button" value="." onclick="dis('.')" onkeydown="myFunction(event)"></td>
-      <td><input type="button" value="=" onclick="solve()"></td>
-      <td><input type="button" value="+" onclick="dis('+')" onkeydown="myFunction(event)"></td>
-    </tr>
-  </table>
-  <script>
+</style>
+<table id="calcu">
+  <tr>
+    <td colspan="3"><input type="text" id="result"></td>
+    <td><input type="button" value="c" onclick="clr()"></td>
+  </tr>
+  <tr>
+    <td><input type="button" value="1" onclick="dis('1')" onkeydown="myFunction(event)"></td>
+    <td><input type="button" value="2" onclick="dis('2')" onkeydown="myFunction(event)"></td>
+    <td><input type="button" value="3" onclick="dis('3')" onkeydown="myFunction(event)"></td>
+    <td><input type="button" value="/" onclick="dis('/')" onkeydown="myFunction(event)"></td>
+  </tr>
+  <tr>
+    <td><input type="button" value="4" onclick="dis('4')" onkeydown="myFunction(event)"></td>
+    <td><input type="button" value="5" onclick="dis('5')" onkeydown="myFunction(event)"></td>
+    <td><input type="button" value="6" onclick="dis('6')" onkeydown="myFunction(event)"></td>
+    <td><input type="button" value="*" onclick="dis('*')" onkeydown="myFunction(event)"></td>
+  </tr>
+  <tr>
+    <td><input type="button" value="7" onclick="dis('7')" onkeydown="myFunction(event)"></td>
+    <td><input type="button" value="8" onclick="dis('8')" onkeydown="myFunction(event)"></td>
+    <td><input type="button" value="9" onclick="dis('9')" onkeydown="myFunction(event)"></td>
+    <td><input type="button" value="-" onclick="dis('-')" onkeydown="myFunction(event)"></td>
+  </tr>
+  <tr>
+    <td><input type="button" value="0" onclick="dis('0')" onkeydown="myFunction(event)"></td>
+    <td><input type="button" value="." onclick="dis('.')" onkeydown="myFunction(event)"></td>
+    <td><input type="button" value="=" onclick="solve()"></td>
+    <td><input type="button" value="+" onclick="dis('+')" onkeydown="myFunction(event)"></td>
+  </tr>
+</table>
+<script>
                 // Function that display value
                 function dis(val) {
                         document.getElementById("result").value += val
@@ -164,6 +167,4 @@
                 function clr() {
                         document.getElementById("result").value = ""
                 }
-  </script><button onclick="javascript:alert('Tacogamerman On Github')">Credits</button>
-</body>
-</html>
+                
