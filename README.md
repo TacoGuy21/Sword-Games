@@ -1,4 +1,7 @@
 # Proxy-Calculator
+
+Please fork and add your own proxy to the button.
+
 Calculator script was given to me by Apandawithagun.
 
 Proxy disguised as a calculator. Supports Call Of Duty, Roblox, and more! (Nowgg.me)
