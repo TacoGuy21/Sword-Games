@@ -1,3 +1,4 @@
+# Added about:blank cloak button.
 # Proxy-Calculator
 
 Please fork and add your own proxy to the button.
