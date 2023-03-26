@@ -3,7 +3,7 @@ Calculator script was given to me by Apandawithagun.
 
 Proxy disguised as a calculator. Supports Call Of Duty, Roblox, and more! (Nowgg.me)
 
-Click go to the algebra calculator for the proxy.
+Click "Go to the algebra calculator" for the proxy.
 
 The purple circle closes UltraViolet.
 
