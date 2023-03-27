@@ -9,7 +9,6 @@ Please fork and add your own proxy to the button.
 
 Credit to Apandawithagun.
 
-I redid the decoration.
 
 Proxy disguised as a calculator. Supports Call Of Duty, Roblox, and more! (Nowgg.me)
 
@@ -17,5 +16,4 @@ Click "Go to the algebra calculator" for the proxy.
 
 The purple circle closes The proxy.
 
-
-
+I also redid the decoration.
