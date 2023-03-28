@@ -1,4 +1,4 @@
-Credit to Foxmoss
+Inspired by FoxMoss
 
 ![Screenshot 2023-03-26 150927 (1)](https://user-images.githubusercontent.com/119009502/228082535-05cf9745-5807-449b-9147-283368099816.jpeg)Credit to foxmoss![Screenshot 2023-03-26 150927 (1)](https://user-images.githubusercontent.com/119009502/228082535-05cf9745-5807-449b-9147-283368099816.jpeg)
 
