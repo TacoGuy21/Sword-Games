@@ -1,4 +1,6 @@
-#  Inspired by FoxMoss
+# 🧮 Calculator 🧮
+
+# Inspired by FoxMoss
 
 # Just a cool calculator I made!
 
