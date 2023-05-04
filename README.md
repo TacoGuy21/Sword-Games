@@ -3,8 +3,7 @@
 Inspired by FoxMoss
 
 # My discord
-https://discord.gg/ujxUzjgQ
-
+https://discord.gg/BMxe6D9CKv
 # Just a cool calculator I made!
 
 Totally nothing to see here
