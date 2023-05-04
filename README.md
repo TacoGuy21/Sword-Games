@@ -2,6 +2,9 @@
 
 Inspired by FoxMoss
 
+# My discord
+https://discord.gg/ujxUzjgQ
+
 # Just a cool calculator I made!
 
 Totally nothing to see here
