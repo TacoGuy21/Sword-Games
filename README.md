@@ -1,6 +1,6 @@
 # 🧮 Calculator 🧮
 
-Inspired by FoxMoss
+This is rather cool.
 
 # My discord
 https://discord.gg/BMxe6D9CKv
