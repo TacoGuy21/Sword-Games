@@ -4,6 +4,9 @@ This is rather cool.
 
 # My discord
 https://discord.gg/BMxe6D9CKv
+<br>
+![Discord](http://invidget.switchblade.xyz/BMxe6D9CKv)
+
 # Just a cool calculator I made!
 
 Totally nothing to see here
