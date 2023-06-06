@@ -11,4 +11,4 @@ Feel free to open a pull request and add more games. (Test it first)
 I plan to add at least 30 more myself so this doesn't suck.
 
 
-![image](https://github.com/Tacogamerman/Sword-Games/assets/119009502/1b322e32-171b-407e-b8e5-5d5abfaf67e6)
+![image](https://github.com/Tacogamerman/Sword-Games/assets/119009502/2128d91c-f051-44a7-a18a-3ca708d2d305)
