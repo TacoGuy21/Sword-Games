@@ -1,5 +1,5 @@
 
-An unblocked game site with a calculator disguise to evade blocking.
+An unblocked game site with a calculator disguise and password protection to evade blocking.
 
 Inspired by foxmoss
 
