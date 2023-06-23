@@ -14,7 +14,4 @@ I plan to add at least 30 more myself so this doesn't suck.
 
 My discord: (https://discord.gg/BMxe6D9CKv)
 
-![Discord](http://invidget.switchblade.xyz/BMxe6D9CKv)
-
-
 ![image](https://github.com/Tacogamerman/Sword-Games/assets/119009502/2128d91c-f051-44a7-a18a-3ca708d2d305)
