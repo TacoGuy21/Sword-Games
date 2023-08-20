@@ -1,5 +1,7 @@
 # Sword Games
 
+UPDATE: ADDED AN UNBLOCKER
+
 Folders are gay
 
 An unblocked game site with a calculator disguise, about:blank and password protection to evade blocking.
