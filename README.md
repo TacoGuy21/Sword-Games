@@ -1,7 +1,9 @@
 # Sword Games
 
-***Use [This](https://github.com/tacogamerman/dorians-games) if you want over 50 games!***
--------
+The game site of all time.
+
+## ***Use [This](https://github.com/tacogamerman/dorians-games) if you want over 50 games!***
+
 The ONLY working proxy and game site that works on static hosts
 
 (These include netlify, playcode, etc)
