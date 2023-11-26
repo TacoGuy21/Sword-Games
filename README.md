@@ -1,6 +1,6 @@
 # Sword Games
 
-The game site of all time.
+***The game site of all time.***
 
 [Subreddit](https://www.reddit.com/r/swordstuff/)
 
