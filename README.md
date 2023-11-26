@@ -2,6 +2,10 @@
 
 The game site of all time.
 
+[Subreddit](https://www.reddit.com/r/swordstuff/)
+
+[Discord Server](https://discord.gg/BMxe6D9CKv)
+
 ## ***Use [This](https://github.com/tacogamerman/dorians-games) if you want over 50 games!***
 
 The ONLY working proxy and game site that works on static hosts
